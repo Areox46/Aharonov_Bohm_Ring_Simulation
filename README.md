@@ -2,6 +2,7 @@
 The Current vs. Voltage and Transmission Graphs of Aharonov Bohm Rings
 
 GENERAL INFORMATION:
+
 This simulation is designed to replicate the atomic structure of the
 Aharonov-Bohm ring proposed by Motohiko Ezawa in his paper called
 "Peculiar band gap structure of graphene nanoribbons" in Fig 7 - e
@@ -11,6 +12,7 @@ determined for the structure using a seperate band gap structure code,
 which is equal to 0.346668 for the given structure.
 
 BEFORE YOU RUN THE CODE:
+
 You can adjust the structure of the nanoribbon in the "#Make Cut"
 section. This allows you to cut different antidotes on the nanoribbon
 and uses symmetry to replicate the antidote on all 4 corners of the
