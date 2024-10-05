@@ -23,8 +23,5 @@ some time (roughly 10-20 minutes), but as long as new loop numbers
 are being printed, everything should be working just fine. Please
 don't forget to install the necessary libraries beforehand.
 
-Thank you for using my code and I hope that it will be benefitial
+Thank you for using our code and I hope that it will be beneficial
 for you in your research efforts.
-
-Emir Dinçel - 19 July 2025
-https://www.linkedin.com/in/emirdincel/
